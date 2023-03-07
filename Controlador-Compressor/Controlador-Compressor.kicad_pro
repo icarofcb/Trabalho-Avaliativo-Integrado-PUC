@@ -471,6 +471,34 @@
     [
       "804a4dd1-72d2-453c-88d6-2d38d7bf9060",
       ""
+    ],
+    [
+      "9d127daf-ad14-46ef-a57c-12fe9d2d0fb5",
+      "Fonte-Placa"
+    ],
+    [
+      "9489b1c7-d83e-458e-bc92-d7a578054a98",
+      "Potência"
+    ],
+    [
+      "b7918aa0-96c4-479d-becc-c68bde28ef82",
+      "ESP32-S3"
+    ],
+    [
+      "0dd60512-7a84-419b-86c3-601d0351ac6e",
+      "Analógico"
+    ],
+    [
+      "28eca530-ca1f-4d58-aa37-13eb9501a711",
+      "Modbus"
+    ],
+    [
+      "c79910fc-ea95-4494-a31b-d8b2ad0c2648",
+      "USB->UART"
+    ],
+    [
+      "4780c35f-b56d-4192-ad95-c1302f9dbd7c",
+      "USB->OTG"
     ]
   ],
   "text_variables": {}

@@ -4,6 +4,14 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Controlador Compressor")
+    (date "2023-03-07")
+    (rev "1")
+    (company "Linear Compressores")
+    (comment 1 "Autor: Ícaro Fernando")
+  )
+
   (lib_symbols
     (symbol "Amplifier_Operational:LM358" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 0 5.08 0)

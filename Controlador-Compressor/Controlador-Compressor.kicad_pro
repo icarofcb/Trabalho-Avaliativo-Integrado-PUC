@@ -478,7 +478,7 @@
     ],
     [
       "9489b1c7-d83e-458e-bc92-d7a578054a98",
-      "Potência"
+      "Circuito digital"
     ],
     [
       "b7918aa0-96c4-479d-becc-c68bde28ef82",
@@ -486,18 +486,18 @@
     ],
     [
       "0dd60512-7a84-419b-86c3-601d0351ac6e",
-      "Analógico"
+      "Circuito Analógico"
     ],
     [
       "28eca530-ca1f-4d58-aa37-13eb9501a711",
       "Modbus"
     ],
     [
-      "c79910fc-ea95-4494-a31b-d8b2ad0c2648",
+      "c4c601d6-bc2e-46e7-9610-d0b729bb24b4",
       "USB->UART"
     ],
     [
-      "4780c35f-b56d-4192-ad95-c1302f9dbd7c",
+      "a41eed78-77a0-4dcd-8138-22abfedc3c2b",
       "USB->OTG"
     ]
   ],
